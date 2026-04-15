@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+model-lora/
+*.bin
+*.pt
+*.ckpt
+
+.env
